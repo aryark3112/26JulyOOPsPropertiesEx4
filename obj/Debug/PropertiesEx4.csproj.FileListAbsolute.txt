@@ -1,0 +1,8 @@
+D:\26July\PropertiesEx4\PropertiesEx4\bin\Debug\PropertiesEx4.exe.config
+D:\26July\PropertiesEx4\PropertiesEx4\bin\Debug\PropertiesEx4.exe
+D:\26July\PropertiesEx4\PropertiesEx4\bin\Debug\PropertiesEx4.pdb
+D:\26July\PropertiesEx4\PropertiesEx4\obj\Debug\PropertiesEx4.csproj.AssemblyReference.cache
+D:\26July\PropertiesEx4\PropertiesEx4\obj\Debug\PropertiesEx4.csproj.SuggestedBindingRedirects.cache
+D:\26July\PropertiesEx4\PropertiesEx4\obj\Debug\PropertiesEx4.csproj.CoreCompileInputs.cache
+D:\26July\PropertiesEx4\PropertiesEx4\obj\Debug\PropertiesEx4.exe
+D:\26July\PropertiesEx4\PropertiesEx4\obj\Debug\PropertiesEx4.pdb
